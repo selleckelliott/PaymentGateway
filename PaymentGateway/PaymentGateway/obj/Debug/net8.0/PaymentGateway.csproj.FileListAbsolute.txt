@@ -1,0 +1,14 @@
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\bin\Debug\net8.0\PaymentGateway.exe
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\bin\Debug\net8.0\PaymentGateway.deps.json
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\bin\Debug\net8.0\PaymentGateway.runtimeconfig.json
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\bin\Debug\net8.0\PaymentGateway.dll
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\bin\Debug\net8.0\PaymentGateway.pdb
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\obj\Debug\net8.0\PaymentGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\obj\Debug\net8.0\PaymentGateway.AssemblyInfoInputs.cache
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\obj\Debug\net8.0\PaymentGateway.AssemblyInfo.cs
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\obj\Debug\net8.0\PaymentGateway.csproj.CoreCompileInputs.cache
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\obj\Debug\net8.0\PaymentGateway.dll
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\obj\Debug\net8.0\refint\PaymentGateway.dll
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\obj\Debug\net8.0\PaymentGateway.pdb
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\obj\Debug\net8.0\PaymentGateway.genruntimeconfig.cache
+C:\Users\selliott\source\repos\PaymentGateway\PaymentGateway\obj\Debug\net8.0\ref\PaymentGateway.dll
